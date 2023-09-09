@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik3\session\session\bin\session.dll
+E:\All files\okul\wgt\ASP\dinamik3\session\session\bin\session.pdb
+E:\All files\okul\wgt\ASP\dinamik3\session\session\obj\Debug\session.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik3\session\session\obj\Debug\session.dll
+E:\All files\okul\wgt\ASP\dinamik3\session\session\obj\Debug\session.pdb

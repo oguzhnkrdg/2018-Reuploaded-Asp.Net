@@ -1,0 +1,5 @@
+C:\Users\PC01\Desktop\hafta 2\liste kutusu\liste kutusu\bin\liste kutusu.dll
+C:\Users\PC01\Desktop\hafta 2\liste kutusu\liste kutusu\bin\liste kutusu.pdb
+C:\Users\PC01\Desktop\hafta 2\liste kutusu\liste kutusu\obj\Debug\liste kutusu.csprojResolveAssemblyReference.cache
+C:\Users\PC01\Desktop\hafta 2\liste kutusu\liste kutusu\obj\Debug\liste kutusu.dll
+C:\Users\PC01\Desktop\hafta 2\liste kutusu\liste kutusu\obj\Debug\liste kutusu.pdb

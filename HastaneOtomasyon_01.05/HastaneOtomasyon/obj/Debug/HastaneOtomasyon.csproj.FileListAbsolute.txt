@@ -1,0 +1,107 @@
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\HastaneOtomasyon.dll.config
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\and\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\and\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\BLab3\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\BLab3\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\BLab3\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\BLab3\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\BLab3\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\bin\HastaneOtomasyon.dll.config
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll.config
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_Font_son22\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_Font_son22\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_Font_son22\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\and\Desktop\HastaneOtomasyon_Font_son22\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_Font_son22\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_06.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_06.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_06.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\and\Desktop\HastaneOtomasyon_06.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_06.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+K:\HastaneOtomasyon_13.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+K:\HastaneOtomasyon_13.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+K:\HastaneOtomasyon_13.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+K:\HastaneOtomasyon_13.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+K:\HastaneOtomasyon_13.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_13.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_13.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_13.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\and\Desktop\HastaneOtomasyon_13.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_13.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_18.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll.config
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_18.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_18.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_18.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_18.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_18.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_21.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_21.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_21.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\and\Desktop\HastaneOtomasyon_21.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_21.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\BLab3\Desktop\HastaneOtomasyon_21.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\BLab3\Desktop\HastaneOtomasyon_21.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\BLab3\Desktop\HastaneOtomasyon_21.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\BLab3\Desktop\HastaneOtomasyon_21.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\BLab3\Desktop\HastaneOtomasyon_21.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll.config
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_28.04\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_28.04\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_28.04\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\and\Desktop\HastaneOtomasyon_28.04\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_28.04\HastaneOtomasyon_24.04\HastaneOtomasyon_Font_son\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_29.04\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_29.04\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_29.04\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\and\Desktop\HastaneOtomasyon_29.04\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_29.04\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\and\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\and\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\and\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\HastaneOtomasyon.dll.config
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\CKEditor.NET.dll
+C:\Users\BLAB1-OGRETMEN\Desktop\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\CKEditor.NET.pdb
+C:\Users\Oguzhan\Desktop\her şey\usb yedek\okul\wgt\ASP\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\HastaneOtomasyon.dll.config
+C:\Users\Oguzhan\Desktop\her şey\usb yedek\okul\wgt\ASP\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\HastaneOtomasyon.dll
+C:\Users\Oguzhan\Desktop\her şey\usb yedek\okul\wgt\ASP\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\HastaneOtomasyon.pdb
+C:\Users\Oguzhan\Desktop\her şey\usb yedek\okul\wgt\ASP\HastaneOtomasyon_01.05\HastaneOtomasyon\bin\CKEditor.NET.pdb
+C:\Users\Oguzhan\Desktop\her şey\usb yedek\okul\wgt\ASP\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\her şey\usb yedek\okul\wgt\ASP\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\her şey\usb yedek\okul\wgt\ASP\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\Oguzhan\Desktop\her şey\usb yedek\okul\wgt\ASP\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.dll
+C:\Users\Oguzhan\Desktop\her şey\usb yedek\okul\wgt\ASP\HastaneOtomasyon_01.05\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb

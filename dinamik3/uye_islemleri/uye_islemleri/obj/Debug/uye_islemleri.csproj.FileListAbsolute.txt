@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik3\uye_islemleri\uye_islemleri\obj\Debug\uye_islemleri.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik3\uye_islemleri\uye_islemleri\bin\uye_islemleri.dll
+E:\All files\okul\wgt\ASP\dinamik3\uye_islemleri\uye_islemleri\bin\uye_islemleri.pdb
+E:\All files\okul\wgt\ASP\dinamik3\uye_islemleri\uye_islemleri\obj\Debug\uye_islemleri.dll
+E:\All files\okul\wgt\ASP\dinamik3\uye_islemleri\uye_islemleri\obj\Debug\uye_islemleri.pdb

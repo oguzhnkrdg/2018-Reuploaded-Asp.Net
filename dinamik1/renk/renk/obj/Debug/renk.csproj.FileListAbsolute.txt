@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik1\renk\renk\obj\Debug\renk.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik1\renk\renk\bin\renk.dll
+E:\All files\okul\wgt\ASP\dinamik1\renk\renk\bin\renk.pdb
+E:\All files\okul\wgt\ASP\dinamik1\renk\renk\obj\Debug\renk.dll
+E:\All files\okul\wgt\ASP\dinamik1\renk\renk\obj\Debug\renk.pdb

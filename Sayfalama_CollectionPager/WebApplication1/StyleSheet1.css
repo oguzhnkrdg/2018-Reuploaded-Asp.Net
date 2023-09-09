@@ -1,0 +1,52 @@
+﻿.Sayfalama a:link, .Sayfalama a:visited, .Sayfalama a:active
+{
+    background-color:cornflowerblue;
+    border:solid 1px #e4e4e4;
+    padding:3px 5px 3px 5px;
+    margin:1px; 
+    font-size:9pt;
+    color:#2f2f2f;
+    font-weight:bold;
+    text-decoration:none;
+    font-family:Trebuchet MS;
+    cursor:pointer;
+}
+ 
+.Sayfalama a:hover
+{
+    background-color:chartreuse;
+    border:solid 1px #e4e4e4;
+    padding:3px 5px 3px 5px;
+    font-size:9pt;
+    color:White;
+    font-family:Trebuchet MS;
+    cursor:pointer;
+}
+ 
+.Sayfalama INPUT
+{   background-image:url('resim/sayfabg.jpg');
+    border:solid 1px #e4e4e4;
+    padding:3px 5px 3px 5px;
+    margin:1px; 
+    font-size:9pt;
+    color:#2f2f2f;
+    font-weight:bold;
+    font-family:Trebuchet MS;
+    cursor:pointer;
+}
+ 
+.Sayfalama span
+{
+    margin:1px;
+}
+ 
+.Sayfalama B
+{
+    background-image:url('resim/sayfabg2.jpg');
+    border:solid 1px #e4e4e4;
+    padding:3px 5px 3px 5px;
+    font-size:9pt;
+    color:White;
+    font-family:Trebuchet MS;
+    cursor:pointer;
+}

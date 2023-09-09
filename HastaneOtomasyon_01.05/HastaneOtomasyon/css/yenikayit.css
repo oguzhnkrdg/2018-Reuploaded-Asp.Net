@@ -1,0 +1,152 @@
+﻿#css-script-menu
+{
+    position: fixed;
+    height: 90px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border-top: 5px solid #16a1e7;
+    background: #fff;
+    -moz-box-shadow: 0 2px 3px 0 rgba(0,0,0,.16);
+    -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,.16);
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,.16);
+    z-index: 999999;
+    padding: 10px 0;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.css-script-center
+{
+    width: 960px;
+    margin: 0 auto;
+}
+
+    .css-script-center ul
+    {
+        width: 212px;
+        float: left;
+        line-height: 45px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    .css-script-center a
+    {
+        text-decoration: none;
+    }
+
+.css-script-ads
+{
+    width: 728px;
+    height: 90px;
+    float: right;
+}
+
+.css-script-clear
+{
+    clear: both;
+    height: 0;
+}
+
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box
+}
+
+
+
+.u-align-center {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%)
+}
+
+.Form {
+  padding: 1em;
+  background-color: rgba(0,0,0,0.02);
+  box-shadow: 0 0 5px rgba(0,0,0,0.1)
+}
+@media only screen and (min-width:50em) {
+
+.Form { padding: 3em }
+}
+
+.Form-section {
+  /*margin-right: -1em;*/
+  margin-bottom: 1.5em
+}
+
+.Form-section+.Form-section {
+  padding-top: 1em;
+  border-top: 1px dotted rgba(0,0,0,0.1)
+}
+
+.Form-title {
+  display: block;
+  font-weight: bold;
+  margin-bottom: .5em
+}
+
+.Form-label, .Form-label--tick { display: block }
+
+.Form-label--tick {
+  position: relative;
+  display: inline-block;
+  margin-left: 0.25em
+}
+
+.Form-label-radio, .Form-label-checkbox {
+  position: absolute;
+  z-index: -1;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  overflow: hidden
+}
+
+.Form-label-radio+.Form-label-text, .Form-label-checkbox+.Form-label-text {
+  cursor: pointer;
+  margin-right: 1em
+}
+
+.Form-label-radio+.Form-label-text::before, .Form-label-checkbox+.Form-label-text::before {
+  font-size: .875em;
+  display: inline-block;
+  width: 1.75em;
+  height: 1.75em;
+  line-height: 1.5;
+  border: 1px solid #c8c8c8;
+  margin-right: .75em;
+  content: "\00a0";
+  color: #32a3ce;
+  box-shadow: 0 1px 2px rgba(0,0,0,.05);
+  background-clip: padding-box;
+  background-color: #FAFAFA;
+  text-align: center
+}
+
+.Form-label-radio+.Form-label-text:hover::before, .Form-label-checkbox+.Form-label-text:hover::before {
+  border-color: #ff893c !important;
+  box-shadow: 0 1px 2px rgba(0,0,0,.05),inset 0 1px 3px rgba(0,0,0,.1) !important;
+
+}
+
+.Form-label-radio:checked+.Form-label-text::before, .Form-label-checkbox:checked+.Form-label-text::before {
+  background-color: #F5F8FC;
+  border-color: #adb8c0;
+  box-shadow: 0 1px 2px rgba(0,0,0,.05),inset 0 -15px 10px -12px rgba(0,0,0,.05),inset 15px 10px -12px rgba(255,255,255,.1);
+  font-family: FontAwesome;
+  content: "\f00c"
+}
+
+.Form-label-radio:focus+.Form-label-text::before, .Form-label-checkbox:focus+.Form-label-text::before, .Form-label-radio:active+.Form-label-text::before, .Form-label-checkbox:active+.Form-label-text::before {
+  box-shadow: box-shadow: 0 1px 2px rgba(0,0,0,.05),inset 0 1px 3px rgba(0,0,0,.1)
+}
+
+.Form-label-radio+.Form-label-text::before { border-radius: 100% }
+

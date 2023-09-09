@@ -1,0 +1,4 @@
+E:\All files\okul\wgt\ASP\dinamik1\Goster_Gizle\Goster_Gizle\bin\Goster_Gizle.dll
+E:\All files\okul\wgt\ASP\dinamik1\Goster_Gizle\Goster_Gizle\bin\Goster_Gizle.pdb
+E:\All files\okul\wgt\ASP\dinamik1\Goster_Gizle\Goster_Gizle\obj\Debug\Goster_Gizle.dll
+E:\All files\okul\wgt\ASP\dinamik1\Goster_Gizle\Goster_Gizle\obj\Debug\Goster_Gizle.pdb

@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik2\validation\validation\bin\validation.dll
+E:\All files\okul\wgt\ASP\dinamik2\validation\validation\bin\validation.pdb
+E:\All files\okul\wgt\ASP\dinamik2\validation\validation\obj\Debug\validation.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik2\validation\validation\obj\Debug\validation.dll
+E:\All files\okul\wgt\ASP\dinamik2\validation\validation\obj\Debug\validation.pdb

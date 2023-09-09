@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik1\DortIslem\DortIslem\bin\DortIslem.dll
+E:\All files\okul\wgt\ASP\dinamik1\DortIslem\DortIslem\bin\DortIslem.pdb
+E:\All files\okul\wgt\ASP\dinamik1\DortIslem\DortIslem\obj\Debug\DortIslem.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik1\DortIslem\DortIslem\obj\Debug\DortIslem.dll
+E:\All files\okul\wgt\ASP\dinamik1\DortIslem\DortIslem\obj\Debug\DortIslem.pdb

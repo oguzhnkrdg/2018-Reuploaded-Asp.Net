@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="MasterPage_Amp11b.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link href="stil.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form2" runat="server">
+        <div id="sayfa_ust">
+            <div id="banner">
+                <img src="logo.jpg" width="949" height="132" />
+            </div>
+            <div id="menu">
+                <div id="menu1">
+                    <a href="a">
+                        <img src="1306778659_1 - Home.png" width="16" height="16" />
+                        Anasayfa</a> <a href="s">
+                            <img src="1306778676_lessons.png" width="16" height="16" />
+                            Dersler</a> <a href="d">
+                                <img src="1306778694_mail-new.png" width="16" height="16" />
+                                Makaleler</a> <a href="r">
+                                    <img src="1306778730_information2.png" width="15" height="15" />
+                                    Hakkımda</a> <a href="ı">
+                                        <img src="1306778774_Telephone.png" width="16" height="16" />
+                                        İletişim</a>
+                </div>
+            </div>
+            <div id="content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+                <div id="temizle1"></div>
+            </div>
+            <div id="sidebar">
+
+                <asp:MultiView ID="MultiView1" runat="server" ActiveViewIndex="0">
+
+                    <asp:View ID="View1" runat="server">
+                        <h3>Üye Alanı</h3>
+                        <div id="form1">
+                            <p>
+                                <label for=""></label>
+                                Kullanıcı Adı
+                                
+                                <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                                <br />
+                                Şifre<br />
+                                <label for="textfield"></label>
+                                <asp:TextBox ID="TextBox2" runat="server" TextMode="Password"></asp:TextBox>
+                                
+                                <br />
+                                <asp:Button ID="Button1" runat="server" Text="Giriş" OnClick="Button1_Click" />
+                                <asp:Label ID="Label3" runat="server" ></asp:Label>
+                            </p>
+                        </div>
+                    </asp:View>
+                    <asp:View ID="View2" runat="server">
+                        <asp:Label ID="Label1" runat="server" CssClass="lbl" Text="Hoşgeldin,"></asp:Label>
+                        <asp:Label ID="Label2" runat="server" CssClass="lbl" ></asp:Label>
+                        <br />
+                        <asp:Label ID="Label4" runat="server" CssClass="lbl" Text="Yetki:"></asp:Label>
+                         <asp:Label ID="lbl_yetki" CssClass="lbl" runat="server" Text="Label"></asp:Label><br />
+                        <asp:LinkButton ID="LinkButton1" CssClass="lbl" runat="server" OnClick="LinkButton1_Click">Oturumu Kapat</asp:LinkButton>
+                    </asp:View>
+                </asp:MultiView>
+
+                <asp:MultiView ID="MultiView2" runat="server" ActiveViewIndex="-1">
+                    <asp:View ID="View3" runat="server">
+                        <h3>Üye Paneli</h3>
+                        <ul>
+                            <li>&gt;&gt;Yazı Ekle</li>
+                        </ul>
+                    </asp:View>
+                    <asp:View ID="View4" runat="server">
+                        <h3>Admin Paneli</h3>
+                        <ul>
+                            <li>&gt;&gt;Kategori Ekle</li>
+                            <li>&gt;&gt;Yazı Ekle</li>
+                        </ul>
+                    </asp:View>
+                </asp:MultiView>
+
+                <h3>Kategoriler</h3>
+                <ul>
+                    <li>&gt;&gt;PHP</li>
+                    <li>&gt;&gt;Wordpress</li>
+                    <li>&gt;&gt;CSS</li>
+                    <li>&gt;&gt;Asp.net</li>
+                </ul>
+                <h3>Baglantılar </h3>
+                <ul>
+                    <li>&gt;&gt;<a href="http://www.burakturali.com">Burakturali.com</a></li>
+                    <li>&gt;&gt;<a href="http://www.burakturali.com">Burakturali.com</a></li>
+                    <li>&gt;&gt;<a href="http://www.burakturali.com">Burakturali.com</a></li>
+                    <li>&gt;&gt;<a href="http://www.burakturali.com">Burakturali.com</a></li>
+                </ul>
+            </div>
+            <div id="temizle"></div>
+        </div>
+        <div id="footer">
+            <div id="sol">Burakturali.com | &copy;2011 Her Hakkı Saklıdır</div>
+            <div id="sag">
+                Sosyal Ağ Profilleri<br />
+                <img src="1306522684_facebook.png" width="24" height="24" />
+                <img src="1306522710_twitter.png" width="24" height="24" alt=" " />
+                <img src="1306522766_vimeo.png" width="24" height="24" />
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>

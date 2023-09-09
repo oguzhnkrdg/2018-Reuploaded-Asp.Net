@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik2\veritransferi\veritransferi\bin\veritransferi.dll
+E:\All files\okul\wgt\ASP\dinamik2\veritransferi\veritransferi\bin\veritransferi.pdb
+E:\All files\okul\wgt\ASP\dinamik2\veritransferi\veritransferi\obj\Debug\veritransferi.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik2\veritransferi\veritransferi\obj\Debug\veritransferi.dll
+E:\All files\okul\wgt\ASP\dinamik2\veritransferi\veritransferi\obj\Debug\veritransferi.pdb

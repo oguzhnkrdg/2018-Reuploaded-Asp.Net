@@ -1,0 +1,6 @@
+C:\MasterPage_Amp11b\MasterPage_Amp11b\bin\MasterPage_Amp11b.dll.config
+C:\MasterPage_Amp11b\MasterPage_Amp11b\bin\MasterPage_Amp11b.dll
+C:\MasterPage_Amp11b\MasterPage_Amp11b\bin\MasterPage_Amp11b.pdb
+C:\MasterPage_Amp11b\MasterPage_Amp11b\obj\Debug\MasterPage_Amp11b.csprojResolveAssemblyReference.cache
+C:\MasterPage_Amp11b\MasterPage_Amp11b\obj\Debug\MasterPage_Amp11b.dll
+C:\MasterPage_Amp11b\MasterPage_Amp11b\obj\Debug\MasterPage_Amp11b.pdb

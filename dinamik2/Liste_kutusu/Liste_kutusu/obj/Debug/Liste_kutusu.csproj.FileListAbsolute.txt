@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik2\Liste_kutusu\Liste_kutusu\obj\Debug\Liste_kutusu.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik2\Liste_kutusu\Liste_kutusu\bin\Liste_kutusu.dll
+E:\All files\okul\wgt\ASP\dinamik2\Liste_kutusu\Liste_kutusu\bin\Liste_kutusu.pdb
+E:\All files\okul\wgt\ASP\dinamik2\Liste_kutusu\Liste_kutusu\obj\Debug\Liste_kutusu.dll
+E:\All files\okul\wgt\ASP\dinamik2\Liste_kutusu\Liste_kutusu\obj\Debug\Liste_kutusu.pdb

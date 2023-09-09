@@ -1,0 +1,12 @@
+C:\MasterPage_Amp11b\MasterPage_Amp11b\bin\MasterPage_Amp11b.dll.config
+C:\MasterPage_Amp11b\MasterPage_Amp11b\bin\MasterPage_Amp11b.dll
+C:\MasterPage_Amp11b\MasterPage_Amp11b\bin\MasterPage_Amp11b.pdb
+C:\MasterPage_Amp11b\MasterPage_Amp11b\obj\Debug\MasterPage_Amp11b.csprojResolveAssemblyReference.cache
+C:\MasterPage_Amp11b\MasterPage_Amp11b\obj\Debug\MasterPage_Amp11b.dll
+C:\MasterPage_Amp11b\MasterPage_Amp11b\obj\Debug\MasterPage_Amp11b.pdb
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\dinamik6\MasterPage_Amp11b_son\MasterPage_Amp11b\MasterPage_Amp11b\bin\MasterPage_Amp11b.dll.config
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\dinamik6\MasterPage_Amp11b_son\MasterPage_Amp11b\MasterPage_Amp11b\bin\MasterPage_Amp11b.dll
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\dinamik6\MasterPage_Amp11b_son\MasterPage_Amp11b\MasterPage_Amp11b\bin\MasterPage_Amp11b.pdb
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\dinamik6\MasterPage_Amp11b_son\MasterPage_Amp11b\MasterPage_Amp11b\obj\Debug\MasterPage_Amp11b.csprojResolveAssemblyReference.cache
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\dinamik6\MasterPage_Amp11b_son\MasterPage_Amp11b\MasterPage_Amp11b\obj\Debug\MasterPage_Amp11b.dll
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\dinamik6\MasterPage_Amp11b_son\MasterPage_Amp11b\MasterPage_Amp11b\obj\Debug\MasterPage_Amp11b.pdb

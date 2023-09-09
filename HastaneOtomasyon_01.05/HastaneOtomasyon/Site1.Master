@@ -1,0 +1,248 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="HastaneOtomasyon.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1254" />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-9" />
+    <meta http-equiv="Content-Type" content="text/html; charset=x-mac-turkish" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <asp:ContentPlaceHolder ID="head2" runat="server">
+    </asp:ContentPlaceHolder>
+    <!--theme colour-->
+    <link href="css/blue.css" rel="stylesheet" />
+
+    <!-- medicom style -->
+    <link href="css/medicom.css" rel="stylesheet" />
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet" />
+
+    <!-- Anything Slider -->
+    <link href="css/anythingslider.css" rel="stylesheet" />
+
+    <!-- date picker -->
+    <link href="css/jquery-ui-1.10.3.custom.css" rel="stylesheet" />
+
+    <!-- Form styling -->
+    <link href="css/uniform.default.css" rel="stylesheet" />
+
+    <!-- Main Form styling -->
+    <link href="css/main.css" rel="stylesheet" />
+    <!--Madonary CSS-->
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div id="wrapper">
+                <header class="medicom-header">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-6 col-sm-6 col-sm-offset-6 col-xs-12">
+                                <div style="float: right">
+                                    <div style="float: left">
+                                        <a href="tel:+0902169990999">
+                                            <i style="margin-right: 12px; font-size: 2em; padding-top: 8px; padding-bottom: 8px; float: left; line-height: 44px;" class="fa fa-phone"></i>
+                                            <div style="font-size: 1.2em; padding: 2px; float: left; line-height: 50px;">(0216) 999 0 999</div>
+                                            <div class="clearfix"></div>
+                                        </a>
+                                    </div>
+                                    <div class="hd-soc">
+                                        <a href="https://www.facebook.com/javatipmerkezi/" target="_blank"><i class="fa fa-facebook"></i></a>
+                                        <a href="https://www.instagram.com/javatipmerkezi/" target="_blank"><i class="fa fa-instagram"></i></a>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                    <div class="colourfull-row"></div>
+                    <div class="container">
+                        <nav class="navbar navbar-default" role="navigation">
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand" href="../Default.aspx">
+                                    <img src="../images/logo1.png" alt="image" title="Java Logo" /></a>
+                            </div>
+
+                            <!-- Collect the nav links, forms, and other content for toggling -->
+                            <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+                                <ul class="nav navbar-nav">
+                                    <li class="active"><a href="Default.aspx">Anasayfa</a></li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">KURUMSAL</a>
+                                        <ul class="dropdown-menu">
+
+                                            <li><a href="/kurumsal/kurumsal-1">Kurumsal</a></li>
+
+                                            <li><a href="/kurumsal/misyon---vizyon">Misyon - Vizyon</a></li>
+
+                                            <li><a href="/kurumsal/kalite">Kalite</a></li>
+
+                                            <li><a href="/kurumsal/kalite-politikamiz">Kalite Politikamız</a></li>
+
+                                            <li><a href="/kurumsal/tanitim-videosu">Tanıtım Videosu</a></li>
+
+                                            <li><a href="/kurumsal/yonetim-kurulu">Yönetim Kurulu</a></li>
+                                            <li><a href="/kurumsal/insan-kaynaklari">İnsan Kaynakları</a></li>
+                                            <li><a href="/kurumsal/foto-galeri">Foto Galeri</a></li>
+                                            <li><a href="/kurumsal/video-galeri">Video Galeri</a></li>
+                                        </ul>
+
+                                    </li>
+
+                                    <li><a href="Hekimlerimiz.aspx">HEKİMLERİMİZ</a></li>
+
+                                    <li><a href="/kurumsal/tibbi-birimlerimiz">TIBBİ BİRİMLERİMİZ</a></li>
+
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">HASTA REHBERİ</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="/hasta-rehberi/hasta-haklari">Hasta Hakları</a></li>
+
+                                            <li><a href="/hasta-rehberi/hasta-sorumluluklari">Hasta Sorumlulukları</a></li>
+                                            <li><a href="/hasta-rehberi/hastanemize-gelmeden-once">Hastanemize Gelmeden Önce</a></li>
+                                            <li><a href="/hasta-rehberi/ziyaretci-politikasi">Ziyaretçi Politikası</a></li>
+
+                                        </ul>
+                                    </li>
+                                    <li><a href="/kurumsal/anlasmali-kurumlar">ANLAŞMALI KURUMLAR</a></li>
+                                    <li><a href="/kurumsal/iletisim">İLETİŞİM</a></li>
+                                </ul>
+                            </div>
+                            <!-- /.navbar-collapse -->
+                        </nav>
+
+                    </div>
+                    <div class="header-bottom-line"></div>
+                </header>
+
+                <!--start randevual-sol-sabit-link-->
+
+                <a class="appointment" href="randevual.aspx"></a>
+
+                <!--end randevual-sol-sabit-link-->
+
+                <asp:ContentPlaceHolder ID="SliderContentPlaceHolder" runat="server">
+                </asp:ContentPlaceHolder>
+
+                <div class="clearfix"></div>
+
+                <div class="content-index">
+
+                    <asp:ContentPlaceHolder ID="PageContentPlaceHolder" runat="server">
+                    </asp:ContentPlaceHolder>
+
+                </div>
+                <!--end content-index-->
+
+                <div class="colourfull-row"></div>
+                <footer id="footer" class="light">
+                    <div class="footer-widget-wrap">
+
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12">
+
+
+                                    <ul id="contact-widget">
+                                        <li style="font-size: 16px;">
+                                            <span>Randevu : </span><a href="tel:+0902169990999">0 (216) 999 0 999</a>
+                                        </li>
+                                        <li style="font-size: 16px;">
+                                            <span>Eposta : </span><a href="mailto:info@javatipmerkezi.com.tr">info@javatipmerkezi.com.tr</a>
+                                        </li>
+                                        <li style="font-size: 16px;">
+                                            <span>Adres : </span>Abc Mah. Xyz Cad. No:222 Sarıkent / İSTANBUL
+                                        </li>
+                                    </ul>
+
+                                    <div class="clearfix">
+                                        <br />
+                                    </div>
+
+                                    <div class="center">
+                                        <div class="ft-soc">
+                                            <a href="https://www.facebook.com/javatipmerkezi/" target="_blank"><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.instagram.com/javatipmerkezi/" target="_blank"><i class="fa fa-instagram"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <p class="copyright text-center">Copyright &copy; 2018 Java Tıp Merkezi. Tüm hakları saklıdır.</p>
+
+                </footer>
+
+            </div>
+            <!--end #wrapper-->
+
+            <script src="js/jquery.js"></script>
+            <script src="js/bootstrap.min.js"></script>
+            <script src="js/carousel.js"></script>
+            <script src="js/jquery.anythingslider.js"></script>
+            <script src="js/jquery.stellar.js"></script>
+            <script src="js/jquery-ui-1.10.3.custom.js"></script>
+            <script src="js/counter.js"></script>
+            <script src="js/waypoints.js"></script>
+            <script src="js/jquery.uniform.js"></script>
+            <script src="js/color-switcher.js"></script>
+
+      
+
+            <script type="text/javascript">
+                jQuery(function ($) {
+                    // parallaax
+                    $.stellar({
+                        horizontalScrolling: false,
+                        verticalOffset: 0
+                    });
+
+                    // AnythingSlider initialization
+                    $('#slider').anythingSlider();
+
+                    //date picker
+                    $("#datepicker").datepicker({
+                        inline: true
+                    });
+
+                    //form styling
+                    $("select").uniform();
+
+                })(jQuery);
+
+            </script>
+            
+
+
+            <asp:ContentPlaceHolder ID="scriptEkle" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+    </form>
+</body>
+</html>

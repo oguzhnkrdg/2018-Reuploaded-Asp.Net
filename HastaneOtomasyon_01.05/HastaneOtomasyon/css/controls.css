@@ -1,0 +1,69 @@
+﻿input[type=checkbox].ace.ace-switch.ace-switch-4 + .lbl::before, input[type=checkbox].ace.ace-switch.ace-switch-5 + .lbl::before
+{
+    text-indent: -64px;
+}
+
+
+input[type=checkbox].ace.ace-switch.ace-switch-4 + .lbl::before, input[type=checkbox].ace.ace-switch.ace-switch-5 + .lbl::before
+{
+    content: "Hatırla\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0\a0Hatırlama";
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 26px;
+    height: 28px;
+    overflow: hidden;
+    border-radius: 12px;
+    background-color: #8b9aa3;
+    border: 1px solid #8b9aa3;
+    color: #FFF;
+    width: 100px;
+    text-indent: -70px;
+    text-shadow: 0 0 0 #FFF;
+    display: inline-block;
+    position: relative;
+    box-shadow: none;
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+input[type=checkbox].ace.ace-switch.ace-switch-4 + .lbl::after, input[type=checkbox].ace.ace-switch.ace-switch-5 + .lbl::after
+{
+    content: 'III';
+    font-size: 11px;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    letter-spacing: 0;
+    width: 24px;
+    height: 24px;
+    line-height: 19px;
+    text-shadow: none!important;
+    color: #939393;
+    background-color: #FFF;
+    -webkit-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+input[type=checkbox].ace.ace-switch.ace-switch-4:checked + .lbl::before, input[type=checkbox].ace.ace-switch.ace-switch-5:checked + .lbl::before
+{
+    text-indent: -20px;
+    background-color: #468fcc;
+    border-color: #468FCC;
+}
+
+input[type=checkbox].ace.ace-switch.ace-switch-4:checked + .lbl::after, input[type=checkbox].ace.ace-switch.ace-switch-5:checked + .lbl::after
+{
+    left: 74px;
+    background-color: #FFF;
+    color: #848484;
+}
+
+input[type=checkbox].ace.ace-switch.btn-flat + .lbl::before, input[type=checkbox].ace.ace-switch.btn-flat + .lbl::after
+{
+    border-radius: 0!important;
+}
+
+
+

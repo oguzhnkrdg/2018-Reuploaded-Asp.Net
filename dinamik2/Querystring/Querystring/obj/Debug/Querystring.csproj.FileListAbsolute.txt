@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik2\Querystring\Querystring\bin\Querystring.dll
+E:\All files\okul\wgt\ASP\dinamik2\Querystring\Querystring\bin\Querystring.pdb
+E:\All files\okul\wgt\ASP\dinamik2\Querystring\Querystring\obj\Debug\Querystring.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik2\Querystring\Querystring\obj\Debug\Querystring.dll
+E:\All files\okul\wgt\ASP\dinamik2\Querystring\Querystring\obj\Debug\Querystring.pdb

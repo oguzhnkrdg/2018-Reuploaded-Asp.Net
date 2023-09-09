@@ -1,0 +1,119 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="masterpage.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="default.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id="logo">
+	<h1><a href="#">Tropical</a></h1>
+	<h2><a href="http://www.freecsstemplates.org/">By Free CSS Templates</a></h2>
+</div>
+<div id="content">
+	<div id="sidebar">
+		<div id="menu">
+			<ul>
+				<li class="active"><a href="#" title="">Homepage</a></li>
+				<li><a href="#" title="">About Us</a></li>
+				<li><a href="#" title="">Products</a></li>
+				<li><a href="#" title="">Services</a></li>
+				<li><a href="#" title="">Clients</a></li>
+				<li><a href="#" title="">Support</a></li>
+			</ul>
+		</div>
+		<div id="login" class="boxed">
+			<h2 class="title">Client Account</h2>
+			<div class="content">
+				<div>
+					<fieldset>
+					<legend>Sign-In</legend>
+					    <asp:MultiView ID="MultiView1" runat="server">
+                            <asp:View ID="View1" runat="server">
+                                Kullanıcı Adı:<br />
+                                <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                                <br />
+                                Şifre:<br />
+                                <asp:TextBox ID="TextBox2" runat="server" TextMode="Password"></asp:TextBox>
+                                <asp:Label ID="Label3" runat="server"></asp:Label>
+                                <br />
+                                <asp:Button ID="Button1" runat="server" OnClick="Button1_Click1" Text="Giriş" />
+                            </asp:View>
+                            <asp:View ID="View2" runat="server">
+                                <asp:Label ID="Label1" runat="server" Text="Hoşgeldin"></asp:Label>
+                                ,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                <asp:Label ID="Label2" runat="server"></asp:Label>
+                                <br />
+                                <asp:Label ID="Label4" runat="server" Text="Yetki:"></asp:Label>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                <asp:Label ID="lbl_yetki" runat="server" Text="Label"></asp:Label>
+                                <br />
+                                <asp:LinkButton ID="LinkButton1" runat="server">Oturumu kapat</asp:LinkButton>
+                            </asp:View>
+                        </asp:MultiView>
+                        <asp:MultiView ID="MultiView2" runat="server">
+                            <asp:View ID="View3" runat="server">
+                                Üye Paneli<br /> &gt;&gt;Yazı Ekle
+                            </asp:View>
+                            <asp:View ID="View4" runat="server">
+                                Admin Paneli<br />
+                                <ul>
+                                    <li>&gt;&gt;Kategori Ekle</li>
+                                    <li>&gt;&gt;Yazı Ekle</li>
+                                </ul>
+                            </asp:View>
+                        </asp:MultiView>
+					</fieldset>
+				</div>
+			</div>
+		</div>
+		<div id="updates" class="boxed">
+			<h2 class="title">Recent Updates</h2>
+			<div class="content">
+				<ul>
+					<li>
+						<h3>March 5, 2007</h3>
+						<p><a href="#">In posuere eleifend odio quisque semper augue mattis wisi maecenas ligula&#8230;</a></p>
+					</li>
+					<li>
+						<h3>March 3, 2007</h3>
+						<p><a href="#">Quisque dictum integer nisl risus, sagittis convallis, rutrum id, congue, and nibh&#8230;</a></p>
+					</li>
+					<li>
+						<h3>February 28, 2007</h3>
+						<p><a href="#">Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum&#8230;</a></p>
+					</li>
+					<li>
+						<h3>February 25, 2007</h3>
+						<p><a href="#">Nam pede erat, porta eu, lobortis eget, tempus et, tellus. Etiam nequea&#8230;</a></p>
+					</li>
+					<li>
+						<h3>February 20, 2007</h3>
+						<p><a href="#">Vivamus fermentum nibh in augue. Praesent a lacus at urna congue rutrum. Nulla enim eros&#8230;</a></p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="main">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+	</div>
+	<div id="extra" style="clear: both;"></div>
+</div>
+<div id="footer">
+	<p id="legal">Copyright &copy; 2007 Tropical. All Rights Reserved. Designed by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+	<p id="links"><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a></p>
+</div>
+        
+    </div>
+    </form>
+</body>
+</html>

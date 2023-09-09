@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik1\gezi\gezi\bin\gezi.dll
+E:\All files\okul\wgt\ASP\dinamik1\gezi\gezi\bin\gezi.pdb
+E:\All files\okul\wgt\ASP\dinamik1\gezi\gezi\obj\Debug\gezi.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik1\gezi\gezi\obj\Debug\gezi.dll
+E:\All files\okul\wgt\ASP\dinamik1\gezi\gezi\obj\Debug\gezi.pdb

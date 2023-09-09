@@ -1,0 +1,13 @@
+C:\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\WebApplication1\WebApplication1\bin\CollectionPager.dll
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\Sayfalama_CollectionPager\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\Sayfalama_CollectionPager\WebApplication1\bin\WebApplication1.dll
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\Sayfalama_CollectionPager\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\Sayfalama_CollectionPager\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\Sayfalama_CollectionPager\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Pause Breaks\Desktop\herşey\usb yedek\okul\wgt\ASP\Sayfalama_CollectionPager\WebApplication1\obj\Debug\WebApplication1.pdb

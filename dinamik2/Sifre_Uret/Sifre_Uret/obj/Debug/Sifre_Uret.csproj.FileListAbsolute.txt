@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik2\Sifre_Uret\Sifre_Uret\bin\Sifre_Uret.dll
+E:\All files\okul\wgt\ASP\dinamik2\Sifre_Uret\Sifre_Uret\bin\Sifre_Uret.pdb
+E:\All files\okul\wgt\ASP\dinamik2\Sifre_Uret\Sifre_Uret\obj\Debug\Sifre_Uret.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik2\Sifre_Uret\Sifre_Uret\obj\Debug\Sifre_Uret.dll
+E:\All files\okul\wgt\ASP\dinamik2\Sifre_Uret\Sifre_Uret\obj\Debug\Sifre_Uret.pdb

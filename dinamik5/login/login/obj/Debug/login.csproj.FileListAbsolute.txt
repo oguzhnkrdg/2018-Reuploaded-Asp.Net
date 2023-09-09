@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik5\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik5\login\login\bin\login.dll
+E:\All files\okul\wgt\ASP\dinamik5\login\login\bin\login.pdb
+E:\All files\okul\wgt\ASP\dinamik5\login\login\obj\Debug\login.dll
+E:\All files\okul\wgt\ASP\dinamik5\login\login\obj\Debug\login.pdb

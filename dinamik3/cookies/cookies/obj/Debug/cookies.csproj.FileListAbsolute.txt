@@ -1,0 +1,5 @@
+E:\All files\okul\wgt\ASP\dinamik3\cookies\cookies\bin\cookies.dll
+E:\All files\okul\wgt\ASP\dinamik3\cookies\cookies\bin\cookies.pdb
+E:\All files\okul\wgt\ASP\dinamik3\cookies\cookies\obj\Debug\cookies.csprojResolveAssemblyReference.cache
+E:\All files\okul\wgt\ASP\dinamik3\cookies\cookies\obj\Debug\cookies.dll
+E:\All files\okul\wgt\ASP\dinamik3\cookies\cookies\obj\Debug\cookies.pdb
